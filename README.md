@@ -5,7 +5,7 @@ This was one of the projects from "The Web Developer Bootcamp 2020" from Udemy,I
 Following Editions may include:
 High Score and User Login System.
 
-Game Playable at: http://aryanpatel.net/simon-game/
+Game Playable at: https://aryanpatel.net/simon-game/.
 
 Rules to Play:
 Press the A to START . Simon will give the first signal. Repeat the signal by pressing the same color lens.
