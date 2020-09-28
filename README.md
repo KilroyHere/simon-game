@@ -8,7 +8,7 @@ High Score and User Login System.
 Game Playable at: https://aryanpatel.net/simon-game/.
 
 Rules to Play:
-Press the A to START . Simon will give the first signal. Repeat the signal by pressing the same color lens.
+Press any key to START . Simon will give the first signal. Repeat the signal by pressing the same color lens.
 
 Simon will add one to this and you must repeat the previous sequence by memorizing it. 
 
